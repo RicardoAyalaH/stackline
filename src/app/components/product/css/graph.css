@@ -1,0 +1,11 @@
+.graph {
+  display: flex;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+  box-shadow: #000 8px;
+  background-color: #FFF;
+  width: 70%;
+  margin-right: 1rem;
+  white-space: nowrap;
+}

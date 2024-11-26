@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #052849;
+  padding-left: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.logo {
+  height: 5rem;
+  width: 5rem;
+}

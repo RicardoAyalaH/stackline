@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  background-color: #F6F8FA;
+}
+
+.navContainer {
+  height: 10%;
+  width: 100%;
+}
+
+.graph {
+  height: 45%;
+  width: 73%;
+}
+
+.productComponents {
+  display: flex;
+  height: 90%;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
